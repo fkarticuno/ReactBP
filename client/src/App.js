@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Form from './components/Form';
 import DisplayUsers from './components/DisplayUsers';
+import Weather from './components/Weather'
 import axios from 'axios';
 import './App.css';
 class App extends Component {

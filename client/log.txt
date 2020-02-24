@@ -1,0 +1,10 @@
+2020-02-22T21:32:15.469862+00:00 app[api]: Enable Logplex by user mckiyoshi@gmail.com
+2020-02-22T21:32:15.339965+00:00 app[api]: Initial release by user mckiyoshi@gmail.com
+2020-02-22T21:32:15.339965+00:00 app[api]: Release v1 created by user mckiyoshi@gmail.com
+2020-02-22T21:32:15.469862+00:00 app[api]: Release v2 created by user mckiyoshi@gmail.com
+2020-02-22T21:34:31.956805+00:00 app[api]: Attach MONGODB (@ref:mongolab-horizontal-30363) by user mckiyoshi@gmail.com
+2020-02-22T21:34:31.972819+00:00 app[api]: Release v4 created by user mckiyoshi@gmail.com
+2020-02-22T21:34:31.956805+00:00 app[api]: Running release v3 commands by user mckiyoshi@gmail.com
+2020-02-22T21:34:31.972819+00:00 app[api]: @ref:mongolab-horizontal-30363 completed provisioning, setting MONGODB_URI. by user mckiyoshi@gmail.com
+2020-02-22T21:35:12.000000+00:00 app[api]: Build started by user mckiyoshi@gmail.com
+2020-02-22T21:36:33.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/6ba56cad-e987-4bd1-ab09-a34cb85b8bef/activity/builds/9963baff-da18-4ecc-b6b1-9c1b208c7f80
